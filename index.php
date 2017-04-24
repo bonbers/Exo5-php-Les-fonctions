@@ -6,7 +6,7 @@
    </head>
 
    <body>
-
+<p>test</p>
 
  <?php
 $var1=128;
