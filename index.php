@@ -7,6 +7,7 @@
 
    <body>
 <p>test</p>
+<p>tet</p>
 
  <?php
 $var1=128;
